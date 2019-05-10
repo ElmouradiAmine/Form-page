@@ -1,6 +1,9 @@
 # form_app
 
-A new Flutter project.
+The first pqge is the form page and the second is the home Page.
+![](https://github.com/ElmouradiAmine/Form-page/blob/master/flutter_01.png)
+![](https://github.com/ElmouradiAmine/Form-page/blob/master/flutter_02.png)
+
 
 ## Getting Started
 
